@@ -1,6 +1,4 @@
 # SQL-Tableau-data-driven-business-case_Magist
-![Banner](banner.png)
-
 SQL exploration of a fictitious e-commerce company in Brazil
 # Case Study during the WBS-DataScience-Bootcamp: Expansion of Eniac to the Brazilian Market via Magist
 
